@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yassinalmach
-- 👀 I’m interested in web application 
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning GoLang, Javascript, html and css
 - 💞️ I’m Open to collaborations where I can further grow my expertise on web development
 
